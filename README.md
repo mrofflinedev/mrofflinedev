@@ -14,7 +14,7 @@ I don't build todo apps. I build systems businesses PAY for.
 
 *Stack:* React | Tailwind | JavaScript | http://Node.js | PHP | MySQL
 
-* Featured:* Ayunda Healthcare — http://collince.cc.cd
+* Featured:* *_AYUNDA TECH HUB_* — http://collince.cc.cd
 
 * Contact Me:*
   *email: mrofflinedev@gmail.com
