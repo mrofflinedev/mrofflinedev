@@ -4,7 +4,7 @@ Mr offline dev
 
 > If it manages people, money, or stock — I can build it.
 
-Founder of *AYUNDA TECH HUB SOLUTIONS* | Full-Stack Developer | kakamega, Kenya 🇰🇪
+Founder of *AYUNDA TECH HUB SOLUTIONS* and secretary *_GREEN NATURE FOUNDATION AFRICA_* | Full-Stack Developer | kakamega, Kenya 🇰🇪
 
 ---
 
