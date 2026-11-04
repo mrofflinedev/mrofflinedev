@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Hi, I'm Collins Wawire, a Full Stack Developer from Kenya with a strong passion for building scalable digital products that solve real-world problems. I combine my background in Economics and Information Technology with hands-on development experience to create practical, efficient, and user-focused solutions.
+Hi, I'm Collins . a Full Stack Developer from Kenya with a strong passion for building scalable digital products that solve real-world problems. I combine my background in Economics and Information Technology with hands-on development experience to create practical, efficient, and user-focused solutions.
 
 - 🔭 I’m currently building collaborative and real-time web systems
 - 🌱 I’m learning Rust and distributed systems to expand my backend expertise
