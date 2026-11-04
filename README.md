@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=490&height=44&lines=Full%20Stack%20Developer;Building%20real-world%20solutions;Learning%20Rust%20%26%20distributed%20systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=490&height=44&lines=Full%20Stack%20Developer;Building%20products%20that%20matter;Learning%20Rust%20%26%20distributed%20systems" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
 
-Hi, I'm Collins , a Full Stack Developer based in Kenya. I combine academic knowledge from my Economics and IT degree with hands-on development experience to build modern, scalable digital products.
+Hi, I'm Collins Wawire, a Full Stack Developer from Kenya with a strong passion for building scalable digital products that solve real-world problems. I combine my background in Economics and Information Technology with hands-on development experience to create practical, efficient, and user-focused solutions.
 
-- 🔭 I'm currently working on a real-time collaborative engine
-- 🌱 I'm currently learning Rust and distributed systems
-- 👯 I'm looking to collaborate on open source developer tools
-- 🤔 I'm looking for help with scaling WebSocket infrastructure
-- 💬 Ask me about React, Node.js, Django, and full-stack development
+- 🔭 I’m currently building collaborative and real-time web systems
+- 🌱 I’m learning Rust and distributed systems to expand my backend expertise
+- 👯 I’m open to collaborating on open-source projects and developer tools
+- 🤔 I’m interested in scaling WebSocket infrastructure and resilient backend architecture
+- 💬 Ask me about React, Node.js, Django, REST APIs, and full-stack development
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy fixing code and building systems that solve real problems
+- ⚡ Fun fact: I enjoy turning complex ideas into simple, working products
 
 ### 🛠️ Tech Stack
 
